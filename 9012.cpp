@@ -22,10 +22,10 @@ int main() {
 		
 		
 		if (sum==0) {
-			cout << "YES" << "\n";
+			cout << "YES\n";
 		}
 		else
-			cout << "NO"<< "\n";
+			cout << "NO\n";
 
 	}
 
