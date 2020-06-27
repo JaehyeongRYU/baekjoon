@@ -12,7 +12,6 @@ void binarySearch(const int& N, const int& K) {
 	int mid = 1;
 	while (first <= last) {
 		mid = (first + last) / 2;
-		//cout << mid << endl;
 		if (arr1[mid] == K) {
 			cout << "1\n";
 			return;
